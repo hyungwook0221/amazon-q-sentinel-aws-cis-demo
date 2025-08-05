@@ -12,7 +12,7 @@
 
 취약한 인프라는 다음 구성 요소들을 포함합니다:
 
-![img](./images/Workflow.png)
+![img](./images/Mermaid_Workflow.png)
 
 ## 🎯 보안 위반 사항
 
